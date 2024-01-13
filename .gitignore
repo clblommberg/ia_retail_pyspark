@@ -1,0 +1,5 @@
+anteriores/
+.ipynb_checkpoints
+__pycache__
+
+datasets/online_retail_II.xlsx

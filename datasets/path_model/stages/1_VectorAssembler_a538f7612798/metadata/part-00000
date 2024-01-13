@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1705108112939,"sparkVersion":"3.5.0","uid":"VectorAssembler_a538f7612798","paramMap":{"outputCol":"features","inputCols":["Quantity","Price","CountryIndex","Day","Week","Month"]},"defaultParamMap":{"handleInvalid":"error","outputCol":"VectorAssembler_a538f7612798__output"}}
