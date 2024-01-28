@@ -58,8 +58,6 @@ El conjunto de datos "Online Retail II" contiene transacciones de comercio minor
 
 ## Referencia del Conjunto de Datos
 
-Este conjunto de datos fue proporcionado por Daqing Chen y se puede encontrar en el [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II). La referencia para citar este conjunto de datos es la siguiente:
-
 Chen, Daqing. (2019). Online Retail II. UCI Machine Learning Repository. [DOI](https://doi.org/10.24432/C5CG6D).
 
-Este conjunto de datos está bajo la licencia Creative Commons Attribution 4.0 International (CC BY 4.0), permitiendo compartir y adaptar los datos con el crédito adecuado. ¡Explora y potencia tu análisis de datos con esta solución PySpark!
+Este conjunto de datos está bajo la licencia Creative Commons Attribution 4.0 International (CC BY 4.0), permitiendo compartir y adaptar los datos con el crédito adecuado. 
